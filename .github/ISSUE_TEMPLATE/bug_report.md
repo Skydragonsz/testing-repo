@@ -8,7 +8,7 @@ assignees: 'Skydragonsz'
 ---
 
 **Debug paste link if applicable**:
-<!--- Enter /fawe debugpaste in game or in your console and copy the output here -->
+<!--- Enter pastebin link that never expires  -->
 
 **Description of the problem:**
 <!--- Include relevant info like errors or a picture of the problem -->
