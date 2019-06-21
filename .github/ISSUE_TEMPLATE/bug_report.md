@@ -1,38 +1,24 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: '[BUG] '
+labels: 'bug'
+assignees: 'Sky_Dragonsz'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Debug paste link if applicable**:
+<!--- Enter /fawe debugpaste in game or in your console and copy the output here -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Description of the problem:**
+<!--- Include relevant info like errors or a picture of the problem -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**How to replicate**:
+<!--- If you can reproduce the issue please tell us as detailed as possible step by step how to do that -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Checklist**:
+<!--- Make sure you've completed the following steps (put an "X" between of brackets): -->
+- [] I made sure there aren't duplicates of this report [(Use Search)](https://github.com/Skydragonsz/testing-repo/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [] I made sure I am using an up-to-date version of X
+- [] I made sure the bug/error is not caused by any other mods
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
