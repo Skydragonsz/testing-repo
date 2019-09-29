@@ -13,11 +13,11 @@ compileJava.options.encoding = 'UTF-8'
 
 repositories {
     jcenter()
+	mavencenter()
 }
 
 dependencies {
-    implementation 'com.google.guava:guava:27.1-jre'
-    testImplementation 'junit:junit:4.12'
+
 }
 
 application {
