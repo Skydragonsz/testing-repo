@@ -1,7 +1,15 @@
 plugins {
     id 'java'
     id 'application'
+    id 'com.github.johnrengelman.shadow' version '5.0.0'
 }
+
+mainClassName = 'be.skydragonsz.testing.App'
+def REVISION_VERSION = System.getenv("BUILD_NUMBER") ?: "SNAPSHOT"
+version = major_version + "." + minor_version + "." + REVISION_VERSION
+
+targetCompatibility = 1.8
+compileJava.options.encoding = 'UTF-8'
 
 repositories {
     jcenter()
