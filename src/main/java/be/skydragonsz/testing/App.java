@@ -3,7 +3,10 @@
  */
 package be.skydragonsz.testing;
 
+
+
 public class App {
+    private String botToken = "NzE5OTE4MTg1MTIxMzE2OTA0.Xt-oAQ.uZnThZlWiyRteCWEwL1GpdeSI-E";
     public String getGreeting() {
         return "Hello world.";
     }
